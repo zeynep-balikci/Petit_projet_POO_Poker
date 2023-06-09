@@ -6,7 +6,7 @@ from Poker import Carre
 from Poker import Quinte
 
 print("------------------ Exercice 1 ------------------")
-Il s’agit de créer des classes pour modéliser une partie de pocker.
+
 print(Carte())                      # -> Valet de Trèfle (par exemple)
 print(Carte())                      # -> Dame de Coeur (par exemple)
 print(Carte())                      # -> 8 de Carreau (par exemple)
