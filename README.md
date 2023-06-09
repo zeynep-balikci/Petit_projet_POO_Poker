@@ -1,1 +1,1 @@
-# Petit_projet_POO_Poker
+Il s’agit de créer des classes pour modéliser une partie de pocker.
